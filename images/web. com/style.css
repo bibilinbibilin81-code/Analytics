@@ -1,0 +1,76 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 60px;
+}
+.menu a{
+    margin-left:55px;
+    text-decoration:none;
+    color: black;
+}
+.box{
+    display: flex;
+    align-items: end;
+    padding: 60px; 
+}
+.text{
+    width: 50%;
+}
+.small{
+    color:#00aaff;
+    margin-bottom:10px;
+    
+}
+.text h1{
+    font-size:48px;
+    margin-bottom:20px;
+    font-weight: bold;
+}
+.btn{
+    background:#00aaff;
+    color:white;
+    border:none;
+    padding:12px 25px;
+    border-radius:5px;
+    font-size:16px;
+}
+.button{
+    margin-left: 20px;
+;
+}
+.showmore{
+    background-color:none ;
+    border:none ;
+    color: #00aaff;
+    font-size:16px ;
+}
+.image{
+    width:55%;
+    text-align:center;
+}
+.image img{
+    width:70%;
+    margin-left: 100%;
+    margin-top:-30%;
+}
+.image hr{
+    width: 80%;
+    margin-left: 95%;
+     
+}
+.steps{
+    display: flex;
+    margin-top: 5%;
+    padding:1%;
+    background-color: #00aaff;
+}
+.step{
+    width:30% ;
+    padding: 30PX;
+    background-color:lightgrey ;
+}
+.step.blue{
+    background-color: #00aaff;
+    color:white ;
+    width:10%;
+}
